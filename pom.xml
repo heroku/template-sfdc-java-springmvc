@@ -88,7 +88,7 @@
         <dependency>
             <groupId>com.github.jsimone</groupId>
             <artifactId>webapp-runner</artifactId>
-            <version>7.0.22.3</version>
+            <version>8.0.23.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
